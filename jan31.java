@@ -53,8 +53,8 @@ class test{
 
 class StringB{
     void BUffer(){
-        StringBuffer sb=new StringBuffer("luffy");
-        sb.append(" Monkey D ");
+        StringBuffer sb=new StringBuffer("Monkey D ");
+        sb.append(" luffy");
         System.out.println(sb);
     }
 }
